@@ -1,17 +1,17 @@
-<h2> Ruby </h2>
+<h3> Ruby </h3>
 
-<h3> About Ruby </h3>
+<h4> About Ruby </h4>
 - Ruby [Ruby documentation](https://ruby-doc.org)
 
-<h3> Preparing env </h3>
-<h4> linux dists </h4>
-<h4> Requirements <h4>
+<h4> Preparing env </h4>
+<h5> linux dists </h5>
+<h5> Requirements <h5>
 
 `- Rbenv 1.1.2`
 `- Ruby 2.6.5`
 
-<h4> Ruby </h4>
-<h4> Update and dev dependencies </h4>
+<h5> Ruby </h5>
+<h5> Update and dev dependencies </h5>
 
 ```
 $ sudo apt-get update
@@ -30,7 +30,7 @@ $ sudo apt-get install git-core git zlib1g-dev build-essential \
     software-properties-common nodejs yarn -y
 ```
 
-<h4> Rbenv </h4>
+<h5> Rbenv </h5>
 
 ```
 $ git clone https://github.com/rbenv/rbenv.git ~/.rbenv
@@ -46,13 +46,13 @@ $ rbenv install 2.6.5
 $ rbenv global 2.6.5
 ```
 
-<h4> Install bundler</h4>
+<h5> Install bundler</h5>
 
 ```
 $ gem install bundler -v 2.1.4
 ```
 
-<h4> Config Gemfile </h4>
+<h5> Config Gemfile </h5>
 
 Gems [Ruby Gems](https://rubygems.org/)
 
