@@ -3,8 +3,7 @@
 <h4> About Ruby </h4>
 - Ruby [Ruby documentation](https://ruby-doc.org)
 
-<h4> Preparing env </h4>
-<h5> linux dists </h5>
+<h4> Preparing env on linux </h4>
 <h5> Requirements <h5>
 
 `- Rbenv 1.1.2`
