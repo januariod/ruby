@@ -1,0 +1,30 @@
+Podcast: FaaStRuby, A Plataforma Serverless para Ruby e Crystal (OneBitTalk#25)
+https://onebitcode.com/podcast-faastruby/
+
+VS Code + Ruby On Rails: Como preparar seu editor em 15 minutos
+https://onebitcode.com/vs-code-rails/
+
+OneBitTalk#25: FaaStRuby, A Plataforma Serverless para Ruby e Crystal
+https://onebitcode.com/onebittalk25-faastruby/
+
+Polimorfismo no Ruby On Rails: Aprenda em 10 minutos
+https://onebitcode.com/polimorfismo-no-ruby-on-rails-aprenda-em-10-minutos/
+
+FaaStRuby: A plataforma Serverless para Ruby
+https://onebitcode.com/faastruby-serverless-ruby/
+
+Programador Freelancer: 5 pilares Essenciais
+https://onebitcode.com/programador-freelancer-dicas/
+
+Rubocop: Aprenda a manter a qualidade do seu código Ruby
+https://onebitcode.com/rubocop-qualidade-de-codigo-no-ruby/
+
+Controle o Twitter pelo terminal usando Ruby (projeto completo)
+https://onebitcode.com/ruby-twitter/
+
+Segurança no Rails: 9 vulnerabilidades que você deve evitar
+https://onebitcode.com/seguranca-no-rails/
+
+Como documentar facilmente sua API usando o Postman
+https://onebitcode.com/documentar-api-postman/
+

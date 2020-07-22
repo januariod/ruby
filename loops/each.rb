@@ -1,0 +1,17 @@
+# each do array
+names = %w[Joãozinho Manoel Juca]
+
+name = 'Leonardo Scorza'
+
+names.each do |name|
+  puts name + 'é o meu nome'
+end
+
+puts name + ' não é meu nome'
+
+# each do hash
+aulas = { 'Aula 1 ' => 'liberada', 'Aula 2 ' => 'liberada', 'Aula 3 ' => 'liberada', 'Aula 4 ' => 'liberada', 'Aula 5 ' => 'em breve' }
+
+aulas.each do |key, value|
+  puts "#{key} #{value}"
+end
