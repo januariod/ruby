@@ -1,7 +1,7 @@
 <h3> Ruby </h3>
 
 <h4> About Ruby </h4>
-- Ruby [Ruby documentation](https://ruby-doc.org)
+- [Ruby docs](https://ruby-doc.org)
 
 <h4> Preparing env on linux </h4>
 <h5> Requirements <h5>
